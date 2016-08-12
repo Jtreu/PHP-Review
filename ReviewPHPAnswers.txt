@@ -1,0 +1,116 @@
+php is case-sensitive when it comes to function names: FALSE
+
+a user-defined function cannot start with: A number
+
+To force a column to always have a value, add the NOT NULL property to its definition.
+
+Indexed arrays begin with a first key value of 0, unless otherwise specified:
+
+A variable in PHP is NOT case sensitive
+
+The SHA1() function creates a hash of a value which CANNOT be decrypted.
+
+Which of the following is not a valid PHP comment indicator: <!-- and -->
+
+If a numeric type will never store negative values, that column should be marked as UNSIGNED.
+
+action = form posted to
+method = how the information is submitted
+
+*****************************************************************
+To use MySQL and SQL securely, you should _____.
+
+Selected Answer: 	
+Incorrect [None Given]
+Answers: 	
+
+    protect the MySQL access information
+
+
+	
+
+    never show MySQL errors to the user
+
+
+	
+
+    be careful using user-submitted data in queries
+
+
+	
+Correct
+
+    All of the above
+******************************************************************
+
+What function is used to execute a SELECT query?: mysqli_query()
+
+What function is used to get a single MySQL record?: mysqli_fetch_array()
+
+
+
+
+***********************************************************************
+Assuming the variable $var has been assigned a value of 0, which of the following will be true?
+
+Selected Answer: 	
+Incorrect [None Given]
+Answers: 	
+
+    empty($var)
+
+
+	
+
+    isset($var)
+
+
+	
+
+    $var == 0
+
+
+	
+Correct
+
+    All of the above
+
+*****************************************************************************
+
+ 	
+
+Which of the following is true in PHP, assuming that $var has been assigned a value of 1?
+
+Selected Answer: 	
+Incorrect [None Given]
+Answers: 	
+
+    $var
+
+
+	
+
+    isset($var)
+
+
+	
+
+    true
+
+
+	
+Correct
+
+    All of the above
+
+************************************************************************************
+
+What SQL command is used to select the database with which you want to work?: USE
+
+cross, triangles, dna thing
+
+
+
+
+
+
